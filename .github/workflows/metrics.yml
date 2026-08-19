@@ -1,0 +1,30 @@
+name: Generate metrics 📊
+
+# Renders the stats card to an SVG committed in this repo, so the profile has
+# no third-party image host to depend on at render time. The previous card was
+# served by the shared github-readme-stats Vercel deployment, which its owner
+# paused (503 DEPLOYMENT_PAUSED), breaking the image for everyone using it.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          # Reuses the existing read:user PAT — metrics only reads public data.
+          # Do not widen its scopes.
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          # The commit back to this repo uses GITHUB_TOKEN instead, so the PAT
+          # never needs write access.
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: the-mentor
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jerusalem

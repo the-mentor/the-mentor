@@ -9,7 +9,7 @@ a scheduled workflow renders it and commits the result back to `main`.
 | --- | --- | --- |
 | Auto-updating activity lists (contributions, PRs, releases, stars) | [`muesli/readme-scribe`](https://github.com/muesli/readme-scribe) via `.github/workflows/readme-scribe.yml`, hourly | **Yes — a PAT** |
 | Contribution-graph snake animation | [`Platane/snk`](https://github.com/Platane/snk) via `.github/workflows/snake.yml`, daily | No |
-| Stats card | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (hosted image URL) | No |
+| Stats card | [`lowlighter/metrics`](https://github.com/lowlighter/metrics) via `.github/workflows/metrics.yml`, 6-hourly — renders `github-metrics.svg` into this repo | Reuses the same PAT |
 | Header banner | [capsule-render](https://github.com/kyechan99/capsule-render) (hosted image URL) | No |
 | Social badges | [shields.io](https://shields.io) (hosted image URLs) | No |
 | Blog / podcast lists | `rss` helper in the template (commented out) | Optional |
@@ -56,8 +56,7 @@ a scheduled workflow renders it and commits the result back to `main`.
   `main`.
 - Scheduled workflows are paused after 60 days of repo inactivity; the hourly
   commit from readme-scribe keeps the repo active, so this is self-sustaining.
-- The three hosted image services (capsule-render, github-readme-stats,
-  shields.io) are third-party. If you'd rather not depend on them, replace the
+- The remaining hosted image services (capsule-render, shields.io) are third-party. If you'd rather not depend on them, replace the
   banner with a PNG committed under `.github/` and drop the stats card.
 - All actions are pinned to full commit SHAs, with the human-readable tag
   kept in a trailing comment. A tag like `v6` is mutable and can be repointed
