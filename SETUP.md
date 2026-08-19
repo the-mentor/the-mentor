@@ -18,13 +18,19 @@ a scheduled workflow renders it and commits the result back to `main`.
 
 1. **Create a classic Personal Access Token.**
    <https://github.com/settings/tokens> → *Generate new token (classic)* →
-   tick `repo:status`, `public_repo` and `read:user`. Copy the token.
+   tick **`read:user` only**. Copy the token. Use a **classic** token — these
+   are classic scope names, and markscribe reads the GraphQL API.
 
-   Those three cover every template function currently in use
+   markscribe's own docs ask for `repo:status` and `public_repo` as well, but
+   those were verified unnecessary here: every function in use
    (`recentContributions`, `recentPullRequests`, `recentReleases`,
-   `recentStars`). Add `read:org` only if you uncomment the `sponsors` block
-   or want private-org activity counted. Use a **classic** token — these are
-   classic scope names, and markscribe reads the GraphQL API.
+   `recentStars`) reads public data, which GraphQL serves to any authenticated
+   token. Do not grant them. `public_repo` is **not** a read-only scope — it
+   confers read/write on every public repository you own, and this token is
+   handed to a third-party container on every hourly run.
+
+   Add `read:org` only if you uncomment the `sponsors` block or want
+   private-org activity counted.
 
    > The default `GITHUB_TOKEN` will **not** work here. The activity lists come
    > from the GitHub GraphQL API, which `GITHUB_TOKEN` is not permitted to read.

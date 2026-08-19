@@ -30,7 +30,8 @@ jobs:
         env:
           # MUST be a classic PAT, not the default GITHUB_TOKEN: the activity
           # data comes from the GraphQL API, which GITHUB_TOKEN cannot read.
-          # Scopes: repo:status, public_repo, read:user (+ read:org for sponsors)
+          # Scope: read:user only — see SETUP.md. Do NOT add public_repo;
+          # it grants write access to every public repo you own.
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: |
           docker run --rm \
