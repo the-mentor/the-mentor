@@ -12,7 +12,7 @@ a scheduled workflow renders it and commits the result back to `main`.
 | Stats card | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (hosted image URL) | No |
 | Header banner | [capsule-render](https://github.com/kyechan99/capsule-render) (hosted image URL) | No |
 | Social badges | [shields.io](https://shields.io) (hosted image URLs) | No |
-| Blog / YouTube / podcast lists | `rss` helper in the template (commented out) | Optional |
+| Blog / podcast lists | `rss` helper in the template (commented out) | Optional |
 
 ## Required one-time setup
 
