@@ -57,8 +57,12 @@ a scheduled workflow renders it and commits the result back to `main`.
   kept in a trailing comment. A tag like `v6` is mutable and can be repointed
   at new code by whoever owns the action; a SHA cannot. `.github/dependabot.yml`
   bumps both the SHA and the comment when a new release lands.
-- Caveat on that pinning: `muesli/readme-scribe` is a Docker action whose
-  `action.yml` runs `docker://fribbledom/markscribe` with **no tag**, i.e.
-  `:latest`. Pinning the action's SHA pins the wrapper, not the image that
-  actually executes with your PAT in its environment. Nothing to fix in this
-  repo — just know the pin is weaker for that one step than for the others.
+- The README step calls `markscribe` via `docker run` at a **pinned digest**
+  rather than through the `muesli/readme-scribe` action. That action runs
+  `docker://fribbledom/markscribe` untagged (`:latest`), so pinning its SHA
+  would pin the wrapper while leaving the image that actually executes with
+  your PAT mutable. `fribbledom/markscribe` has exactly one tag, last pushed
+  2021-06-22, so there is no version stream to follow — the digest is the only
+  stable reference. Dependabot cannot bump it; to move deliberately, run
+  `curl -s https://hub.docker.com/v2/repositories/fribbledom/markscribe/tags/latest`
+  and compare.

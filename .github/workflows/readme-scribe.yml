@@ -16,17 +16,29 @@ jobs:
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
+      # Runs markscribe directly rather than via the muesli/readme-scribe
+      # action. That action is a thin wrapper whose action.yml invokes
+      # `docker://fribbledom/markscribe` with NO tag, i.e. :latest — so
+      # pinning the action's SHA pinned the wrapper, not the image that
+      # actually executes with the PAT in its environment. Pinning the image
+      # digest closes that gap.
+      #
+      # Digest is the amd64 image behind fribbledom/markscribe:latest
+      # (the only tag; pushed 2021-06-22). Verify a new one with:
+      #   curl -s https://hub.docker.com/v2/repositories/fribbledom/markscribe/tags/latest
       - name: Generate README.md
-        uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
-          # NOTE: this MUST be a classic Personal Access Token, not the default
-          # GITHUB_TOKEN. The contributions/stars/sponsors data comes from the
-          # GitHub GraphQL API, which GITHUB_TOKEN cannot read.
-          # Scopes needed: public_repo, read:user  (+ read:org for org activity)
+          # MUST be a classic PAT, not the default GITHUB_TOKEN: the activity
+          # data comes from the GraphQL API, which GITHUB_TOKEN cannot read.
+          # Scopes: repo:status, public_repo, read:user (+ read:org for sponsors)
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        run: |
+          docker run --rm \
+            -e GITHUB_TOKEN \
+            -v "${{ github.workspace }}:/workspace" \
+            -w /workspace \
+            fribbledom/markscribe@sha256:97576ac6779e1be65eb9a11a241f5b873b4eae065cd9a9e1f1241add2cae60f4 \
+            -write README.md templates/README.md.tpl
 
       - name: Commit README.md
         uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7
