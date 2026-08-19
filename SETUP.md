@@ -48,4 +48,7 @@ a scheduled workflow renders it and commits the result back to `main`.
 - The three hosted image services (capsule-render, github-readme-stats,
   shields.io) are third-party. If you'd rather not depend on them, replace the
   banner with a PNG committed under `.github/` and drop the stats card.
-- `.github/dependabot.yml` keeps the pinned action versions current.
+- All actions are pinned to full commit SHAs, with the human-readable tag
+  kept in a trailing comment. A tag like `v6` is mutable and can be repointed
+  at new code by whoever owns the action; a SHA cannot. `.github/dependabot.yml`
+  bumps both the SHA and the comment when a new release lands.
