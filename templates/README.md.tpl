@@ -17,8 +17,6 @@
 
 Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's clever architecture is today's on-call rotation, so I plan accordingly 📟
 
-TODO: link the projects you want people to find, e.g. [a thing I built](https://github.com/the-mentor/something) 🧑‍💻
-
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/the-mentor/the-mentor/snake/github-contribution-grid-snake-dark.svg">
 </div>
