@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:f778ba&height=200&section=header&text=the-mentor&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn" alt="header">
 </p>
 <p align="center">
-  &nbsp;<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://www.linkedin.com/in/avrichenroth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="mailto:YOUR@EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
