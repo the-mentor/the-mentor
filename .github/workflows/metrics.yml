@@ -15,8 +15,34 @@ jobs:
     permissions:
       contents: write
     steps:
+      # lowlighter/metrics is a COMPOSITE action: pinning its SHA pins the YAML,
+      # not the container that actually runs with the PAT in its environment.
+      # Left alone it pulls `ghcr.io/lowlighter/metrics:v3.34` — a mutable tag.
+      #
+      # So: pull that image by digest here and tag it under the name the action
+      # looks for. With use_prebuilt_image=false the action runs
+      # `docker image inspect metrics:3.34.0` and only builds when it is absent,
+      # so it finds this one and skips both the registry pull and the rebuild.
+      #
+      # These three values move together — action SHA, package.json version in
+      # the image tag, and digest. Changing one alone breaks the pinning.
+      # Re-resolve the digest with:
+      #   TOKEN=$(curl -s "https://ghcr.io/token?scope=repository:lowlighter/metrics:pull" | jq -r .token)
+      #   curl -sI -H "Authorization: Bearer $TOKEN" \
+      #     -H "Accept: application/vnd.docker.distribution.manifest.v2+json" \
+      #     https://ghcr.io/v2/lowlighter/metrics/manifests/v3.34 | grep -i docker-content-digest
+      - name: Pin the metrics runtime image by digest
+        env:
+          IMAGE: ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65
+        run: |
+          docker pull "$IMAGE"
+          docker tag "$IMAGE" metrics:3.34.0
+
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
+          # Forces the local-image path so the digest-pinned image above is used
+          # instead of the mutable ghcr.io tag.
+          use_prebuilt_image: false
           # Reuses the existing read:user PAT — metrics only reads public data.
           # Do not widen its scopes.
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

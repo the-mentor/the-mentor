@@ -62,6 +62,13 @@ a scheduled workflow renders it and commits the result back to `main`.
   kept in a trailing comment. A tag like `v6` is mutable and can be repointed
   at new code by whoever owns the action; a SHA cannot. `.github/dependabot.yml`
   bumps both the SHA and the comment when a new release lands.
+- `lowlighter/metrics` is a *composite* action, so its SHA pin covers only the
+  YAML — the container that runs with the PAT is pulled as the mutable tag
+  `ghcr.io/lowlighter/metrics:v3.34`. `metrics.yml` therefore pulls that image
+  **by digest** and tags it locally, and passes `use_prebuilt_image: false` so
+  the action reuses it rather than pulling the tag or rebuilding. Action SHA,
+  image tag version and digest must be changed together. See issue #3 for the
+  plan to drop this dependency entirely.
 - The README step calls `markscribe` via `docker run` at a **pinned digest**
   rather than through the `muesli/readme-scribe` action. That action runs
   `docker://fribbledom/markscribe` untagged (`:latest`), so pinning its SHA
