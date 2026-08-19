@@ -14,10 +14,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
       - name: Generate README.md
-        uses: muesli/readme-scribe@v0.1
+        uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
           # NOTE: this MUST be a classic Personal Access Token, not the default
           # GITHUB_TOKEN. The contributions/stars/sponsors data comes from the
@@ -29,7 +29,7 @@ jobs:
           writeTo: "README.md"
 
       - name: Commit README.md
-        uses: stefanzweifel/git-auto-commit-action@v7
+        uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7
         with:
           commit_message: "docs: update README.md"
           branch: main

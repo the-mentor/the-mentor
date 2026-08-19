@@ -14,7 +14,7 @@ jobs:
     steps:
       # Turn the contribution graph into a snake game animation
       - name: Generate snake animations
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -24,7 +24,7 @@ jobs:
       # Publish build/ to an orphan "snake" branch, so the SVGs are reachable at
       # https://raw.githubusercontent.com/<user>/<repo>/snake/<file>
       - name: Push snake animations
-        uses: crazy-max/ghaction-github-pages@v4.2.0
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
