@@ -9,7 +9,7 @@
 <a href="https://github.com/the-mentor" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=the-mentor&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=f778ba&icon_color=58a6ff&text_color=c5c8c6&ring_color=39d353&border_radius=8" alt="GitHub Stats"></a>
 <br />
 
-Hello 👋 I'm Avri — architect, tech lead and DevOps engineer, which is really three jobs that are all just *reduce the blast radius* at different altitudes 🧯
+Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's clever architecture is today's on-call rotation, so I plan accordingly 📟
 
 TODO: link the projects you want people to find, e.g. [a thing I built](https://github.com/the-mentor/something) 🧑‍💻
 
