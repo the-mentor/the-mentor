@@ -18,8 +18,13 @@ a scheduled workflow renders it and commits the result back to `main`.
 
 1. **Create a classic Personal Access Token.**
    <https://github.com/settings/tokens> → *Generate new token (classic)* →
-   scopes `public_repo` and `read:user` (add `read:org` if you want private-org
-   activity counted). Copy the token.
+   tick `repo:status`, `public_repo` and `read:user`. Copy the token.
+
+   Those three cover every template function currently in use
+   (`recentContributions`, `recentPullRequests`, `recentReleases`,
+   `recentStars`). Add `read:org` only if you uncomment the `sponsors` block
+   or want private-org activity counted. Use a **classic** token — these are
+   classic scope names, and markscribe reads the GraphQL API.
 
    > The default `GITHUB_TOKEN` will **not** work here. The activity lists come
    > from the GitHub GraphQL API, which `GITHUB_TOKEN` is not permitted to read.
@@ -41,8 +46,8 @@ a scheduled workflow renders it and commits the result back to `main`.
 
 ## Notes
 
-- The scheduled runs only appear after this branch is merged to `main` —
-  GitHub only schedules cron workflows from the default branch.
+- Cron workflows are only scheduled from the default branch, so keep this on
+  `main`.
 - Scheduled workflows are paused after 60 days of repo inactivity; the hourly
   commit from readme-scribe keeps the repo active, so this is self-sustaining.
 - The three hosted image services (capsule-render, github-readme-stats,
@@ -52,3 +57,8 @@ a scheduled workflow renders it and commits the result back to `main`.
   kept in a trailing comment. A tag like `v6` is mutable and can be repointed
   at new code by whoever owns the action; a SHA cannot. `.github/dependabot.yml`
   bumps both the SHA and the comment when a new release lands.
+- Caveat on that pinning: `muesli/readme-scribe` is a Docker action whose
+  `action.yml` runs `docker://fribbledom/markscribe` with **no tag**, i.e.
+  `:latest`. Pinning the action's SHA pins the wrapper, not the image that
+  actually executes with your PAT in its environment. Nothing to fix in this
+  repo — just know the pin is weaker for that one step than for the others.
