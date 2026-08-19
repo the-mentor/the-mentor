@@ -9,7 +9,6 @@
 </p>
 <p align="center">
   &nbsp;<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
-  &nbsp;<a href="https://bsky.app/profile/YOUR-HANDLE" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0772D8?style=for-the-badge&logo=bluesky&logoColor=%23ffffff"></a>&nbsp;
   &nbsp;<a href="mailto:YOUR@EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
@@ -57,11 +56,6 @@ TODO: link the projects you want people to find, e.g. [a thing I built](https://
 
   ### ✍️ Blog
   {{range rss "https://your-blog.example/index.xml" 5}}
-  - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-  {{- end}}
-
-  ### 📺️ YouTube
-  {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID" 5}}
   - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
   {{- end}}
 
