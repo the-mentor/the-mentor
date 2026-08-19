@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   &nbsp;<a href="https://www.linkedin.com/in/avrichenroth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
-  &nbsp;<a href="mailto:YOUR@EMAIL" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="mailto:avri@avritech.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=%23ffffff"></a>&nbsp;
 </p>
 
 <a href="https://github.com/the-mentor" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=the-mentor&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=f778ba&icon_color=58a6ff&text_color=c5c8c6&ring_color=39d353&border_radius=8" alt="GitHub Stats"></a>
