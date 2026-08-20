@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 ### Recent project contributions 🏗️
 
 
-- [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
+- [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
   - Run claude code in a micro VM (Boxlite)
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (2 weeks ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
@@ -27,24 +27,24 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - 
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) (4 weeks ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
-- [the-mentor/PSmac](https://github.com/the-mentor/PSmac) (4 weeks ago)
+- [the-mentor/PSmac](https://github.com/the-mentor/PSmac) (1 month ago)
   - 
 
 ### Recent pull requests 🛠️
 
 
-- [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
-- [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 day ago)
-- [feat: guard box Bash commands via a PreToolUse hook and gateway MCP policy](https://github.com/the-mentor/claude-boxlite/pull/34) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
-- [docs: evaluate BoxLite SDK migration for host-side secret injection](https://github.com/the-mentor/claude-boxlite/pull/33) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [feat: install lazygit in the base image and alias it to lg](https://github.com/the-mentor/claude-boxlite/pull/32) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
+- [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 day ago)
+- [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
+- [feat: guard box Bash commands via a PreToolUse hook and gateway MCP policy](https://github.com/the-mentor/claude-boxlite/pull/34) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
+- [docs: evaluate BoxLite SDK migration for host-side secret injection](https://github.com/the-mentor/claude-boxlite/pull/33) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
+- [feat: install lazygit in the base image and alias it to lg](https://github.com/the-mentor/claude-boxlite/pull/32) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (5 days ago)
 
 ### Recent releases 📦️
 
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.10.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.10.0), today)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.10.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.10.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc3), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc3), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 4 weeks ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
@@ -58,11 +58,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (10438)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (10485)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10607)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10608)
   - Convert Compose to Kubernetes
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15360)
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15363)
   - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 
