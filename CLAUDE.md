@@ -19,6 +19,14 @@ why it was made, nothing about how it was produced.
 Conventional-commit prefixes are in use (`feat:`, `fix:`, `docs:`, `chore:`,
 `style:`, `security:`).
 
+### Enforcement
+
+The commit policy above is enforced server-side by a repository ruleset, not by
+this file alone. The definition lives in `.github/rulesets/no-ai-attribution.json`
+with instructions in `.github/rulesets/README.md`, and is reusable across
+repositories. A ruleset rejects the push; a CI check would only fail after the
+commit had already landed.
+
 ## Architecture
 
 `README.md` is **generated output**. The source is `templates/README.md.tpl`,
