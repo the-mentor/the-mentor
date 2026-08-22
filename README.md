@@ -54,15 +54,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 ### Recent starred projects ⭐️
 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2270)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2271)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13108)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13151)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10608)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10609)
   - Convert Compose to Kubernetes
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15466)
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15469)
   - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 
