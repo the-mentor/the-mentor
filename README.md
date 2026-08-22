@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:f778ba&height=200&section=header&text=Avri%20Chen-Roth&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn" alt="header">
+  <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/banner.svg" alt="Avri Chen-Roth — architect, tech lead, DevOps engineer" width="100%">
 </p>
 <p align="center">
   &nbsp;<a href="https://www.linkedin.com/in/avrichenroth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050A05?style=for-the-badge&logo=linkedin&logoColor=%2339FF14"></a>&nbsp;
