@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            build/github-contribution-grid-snake.svg?color_snake=#f778ba&color_dots=#EBEDF0,#C4E4CB,#9DDBA6,#6BC77C,#39D353
-            build/github-contribution-grid-snake-dark.svg?color_snake=#f778ba&color_dots=#161B22,#1C4A2A,#226E33,#2CA143,#39D353
+            build/github-contribution-grid-snake.svg?color_snake=#39FF14&color_dots=#E8FFE8,#A8F09A,#5FD94E,#2BBF1B,#0E7A0E
+            build/github-contribution-grid-snake-dark.svg?color_snake=#39FF14&color_dots=#050A05,#0A3D0A,#0E7A0E,#1FD10F,#2BE80F
 
       # Publish build/ to an orphan "snake" branch, so the SVGs are reachable at
       # https://raw.githubusercontent.com/<user>/<repo>/snake/<file>

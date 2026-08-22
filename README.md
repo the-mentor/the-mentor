@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:f778ba&height=200&section=header&text=Avri%20Chen-Roth&fontColor=ffffff&fontSize=55&fontAlignY=38&animation=fadeIn" alt="header">
 </p>
 <p align="center">
-  &nbsp;<a href="https://www.linkedin.com/in/avrichenroth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1667be?style=for-the-badge&logo=linkedin&logoColor=%23ffffff"></a>&nbsp;
-  &nbsp;<a href="mailto:avri@avritech.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=maildotru&logoColor=%23ffffff"></a>&nbsp;
+  &nbsp;<a href="https://www.linkedin.com/in/avrichenroth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050A05?style=for-the-badge&logo=linkedin&logoColor=%2339FF14"></a>&nbsp;
+  &nbsp;<a href="mailto:avri@avritech.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-050A05?style=for-the-badge&logo=maildotru&logoColor=%2339FF14"></a>&nbsp;
 </p>
 
 <a href="https://github.com/the-mentor" target="_blank"><img align="right" width="420" src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/github-metrics.svg" alt="GitHub Metrics"></a>

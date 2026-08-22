@@ -54,3 +54,10 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jerusalem
+          # Phosphor-terminal palette, matching the banner and snake.
+          extras_css: |
+            svg, .background { background: #050A05 !important; fill: #050A05 !important; }
+            * { color: #1FD10F !important; fill: #1FD10F !important;
+                border-color: #0E7A0E !important; }
+            h2, .title, .name, a { color: #39FF14 !important; fill: #39FF14 !important; }
+            .key, .no-alt { color: #0E7A0E !important; fill: #0E7A0E !important; }
