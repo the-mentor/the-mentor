@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 ### Recent pull requests 🛠️
 
 
+- [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
+- [fix(cbox): make interactive Claude survive in a box, and stop hanging on exit](https://github.com/the-mentor/claude-boxlite/pull/37) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 - [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
 - [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
 - [feat: guard box Bash commands via a PreToolUse hook and gateway MCP policy](https://github.com/the-mentor/claude-boxlite/pull/34) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (5 days ago)
-- [docs: evaluate BoxLite SDK migration for host-side secret injection](https://github.com/the-mentor/claude-boxlite/pull/33) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (6 days ago)
-- [feat: install lazygit in the base image and alias it to lg](https://github.com/the-mentor/claude-boxlite/pull/32) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 week ago)
 
 ### Recent releases 📦️
 
@@ -54,11 +54,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 ### Recent starred projects ⭐️
 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2272)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2273)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13271)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13308)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10609)
   - Convert Compose to Kubernetes
