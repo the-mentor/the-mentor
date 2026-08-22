@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 ### Recent pull requests 🛠️
 
 
+- [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 - [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 - [fix(cbox): make interactive Claude survive in a box, and stop hanging on exit](https://github.com/the-mentor/claude-boxlite/pull/37) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 - [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
 - [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
-- [feat: guard box Bash commands via a PreToolUse hook and gateway MCP policy](https://github.com/the-mentor/claude-boxlite/pull/34) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (5 days ago)
 
 ### Recent releases 📦️
 
@@ -58,11 +58,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13401)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (13449)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10609)
   - Convert Compose to Kubernetes
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15476)
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15478)
   - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 
