@@ -21,27 +21,27 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/the-mentor/the-mentor/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-### Recent project contributions 🏗️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
   - {{.Repo.Description}}
 {{- end}}
 
-### Recent pull requests 🛠️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### Recent releases 📦️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
   - {{.Description}}
 {{- end}}
 
-### Recent starred projects ⭐️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{.Repo.Stargazers}})

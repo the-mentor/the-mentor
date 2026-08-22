@@ -16,7 +16,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/the-mentor/the-mentor/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-### Recent project contributions 🏗️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (6 days ago)
@@ -30,7 +30,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 - [the-mentor/PSmac](https://github.com/the-mentor/PSmac) (1 month ago)
   - 
 
-### Recent pull requests 🛠️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
 - [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
@@ -39,7 +39,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 - [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
 - [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
 
-### Recent releases 📦️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.10.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.10.0), 3 days ago)
@@ -51,7 +51,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 - [the-mentor/PSmac](https://github.com/the-mentor/PSmac) ([v1.0.13](https://github.com/the-mentor/PSmac/releases/tag/v1.0.13), 1 month ago)
   - 
 
-### Recent starred projects ⭐️
+<img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2273)
