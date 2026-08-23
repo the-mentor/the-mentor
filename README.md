@@ -19,6 +19,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
+- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+  - RDP Server for macOS 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 week ago)
   - Run claude code in a micro VM (Boxlite)
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (2 weeks ago)
@@ -27,17 +29,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - 
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) (1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
-- [the-mentor/PSmac](https://github.com/the-mentor/PSmac) (1 month ago)
-  - 
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [Add IronRDP as a pinned submodule under third_party/](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
 - [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 day ago)
 - [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 day ago)
 - [fix(cbox): make interactive Claude survive in a box, and stop hanging on exit](https://github.com/the-mentor/claude-boxlite/pull/37) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 day ago)
 - [feat(cbox): replace micro-VM management with a Rust binary, retiring the GH_TOKEN passthrough](https://github.com/the-mentor/claude-boxlite/pull/36) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (4 days ago)
-- [Feat/cbox phase 1](https://github.com/the-mentor/claude-boxlite/pull/35) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (5 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -54,15 +54,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3131)
+  - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2274)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (14596)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (14637)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10609)
   - Convert Compose to Kubernetes
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) (15511)
-  - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
 
