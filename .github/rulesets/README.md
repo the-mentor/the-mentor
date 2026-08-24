@@ -36,6 +36,26 @@ bypass actors are needed — which is what makes a ruleset workable here where
 branch protection would not be: those workflows push to `main` directly and a
 pull-request requirement would break them.
 
+## Availability
+
+**These rules do not work on personal accounts.** GitHub gates commit-metadata
+restrictions to repositories owned by an organization on Team or Enterprise.
+Applying this ruleset to a user-owned repository returns:
+
+```
+422  Invalid rule 'commit_message_pattern':
+```
+
+Verified against this repository with both the `regex` and `contains` operators,
+so it is the rule type that is unavailable, not the pattern. A profile README
+must live in a user repository named after the account, so there is no way
+around it here — this repository falls back to `.github/workflows/commit-policy.yml`
+for detection and `.githooks/commit-msg` for local prevention.
+
+Keep this definition for **organization-owned** repositories, where it works and
+is strictly better than the fallback: it rejects the push instead of reporting
+the violation after the commit has landed.
+
 ## Applying to a repository
 
 ```sh

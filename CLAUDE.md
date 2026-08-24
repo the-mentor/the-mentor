@@ -21,11 +21,17 @@ Conventional-commit prefixes are in use (`feat:`, `fix:`, `docs:`, `chore:`,
 
 ### Enforcement
 
-The commit policy above is enforced server-side by a repository ruleset, not by
-this file alone. The definition lives in `.github/rulesets/no-ai-attribution.json`
-with instructions in `.github/rulesets/README.md`, and is reusable across
-repositories. A ruleset rejects the push; a CI check would only fail after the
-commit had already landed.
+This file is guidance, not a gate. Two mechanisms back it:
+
+- `.githooks/commit-msg` — **prevents** the commit locally. Hooks are not
+  cloned; enable per working copy with `git config core.hooksPath .githooks`.
+- `.github/workflows/commit-policy.yml` — **detects** on push and fails the run.
+  A violation has already landed by then, and removing it means a history
+  rewrite.
+
+Server-side rejection would be better, but commit-metadata rulesets are
+unavailable on personal accounts. `.github/rulesets/` holds a working definition
+for organization-owned repositories, with the details.
 
 ## Architecture
 

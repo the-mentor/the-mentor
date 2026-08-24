@@ -1,0 +1,20 @@
+#!/bin/sh
+# Rejects commits carrying assistant attribution. See CLAUDE.md.
+#
+# Hooks are not cloned. Enable in each working copy with:
+#   git config core.hooksPath .githooks
+
+if grep -qiE 'co-authored-by:.*(claude|anthropic)|claude-session:|noreply@anthropic\.com' "$1"; then
+  echo "commit-msg: attribution trailer found in the commit message." >&2
+  echo "Remove it, or amend the author, and commit again. See CLAUDE.md." >&2
+  exit 1
+fi
+
+author_email=$(git var GIT_AUTHOR_IDENT | sed -n 's/.*<\(.*\)>.*/\1/p')
+case "$author_email" in
+  *anthropic.com*)
+    echo "commit-msg: author email is $author_email." >&2
+    echo "Set a real identity: git config user.email <you>" >&2
+    exit 1
+    ;;
+esac
