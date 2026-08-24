@@ -44,10 +44,14 @@ Applying this ruleset to a user-owned repository returns:
 
 ```
 422  Invalid rule 'commit_message_pattern':
+422  Invalid rule 'commit_author_email_pattern':
 ```
 
-Verified against this repository with both the `regex` and `contains` operators,
-so it is the rule type that is unavailable, not the pattern. A profile README
+Verified against this repository on both axes: the message rule with both the
+`regex` and `contains` operators, and the author-email rule on its own. It is
+the metadata rule *family* that is unavailable, not any particular pattern.
+Rulesets themselves work on a personal account — non-metadata rules such as
+linear history or deletion protection apply normally. A profile README
 must live in a user repository named after the account, so there is no way
 around it here — this repository falls back to `.github/workflows/commit-policy.yml`
 for detection and `.githooks/commit-msg` for local prevention.
