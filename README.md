@@ -33,7 +33,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [Add IronRDP as a pinned submodule under third_party/](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
+- [RDPie Phase 0-1: RDP core &#43; macOS screen capture daemon](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
 - [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
 - [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
 - [fix(cbox): make interactive Claude survive in a box, and stop hanging on exit](https://github.com/the-mentor/claude-boxlite/pull/37) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (15363)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (15408)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10610)
   - Convert Compose to Kubernetes
