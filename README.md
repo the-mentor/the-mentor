@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
+- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
   - RDP Server for macOS 
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (1 day ago)
   - 
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (16047)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (16089)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10611)
   - Convert Compose to Kubernetes
