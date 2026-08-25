@@ -19,9 +19,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
   - RDP Server for macOS 
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (today)
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (1 day ago)
   - 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 week ago)
   - Run claude code in a micro VM (Boxlite)
@@ -33,18 +33,18 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [Input injection, Accessibility handling, and an opt-in network bind](https://github.com/the-mentor/RDPie/pull/3) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
-- [Phase 2: H.264 video encoding via MS-RDPEGFX (AVC420)](https://github.com/the-mentor/RDPie/pull/2) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
-- [RDPie Phase 0-1: RDP core &#43; macOS screen capture daemon](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
-- [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
-- [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 days ago)
+- [Input injection, Accessibility handling, and an opt-in network bind](https://github.com/the-mentor/RDPie/pull/3) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
+- [Phase 2: H.264 video encoding via MS-RDPEGFX (AVC420)](https://github.com/the-mentor/RDPie/pull/2) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
+- [RDPie Phase 0-1: RDP core &#43; macOS screen capture daemon](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 days ago)
+- [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
+- [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.10.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.10.0), 5 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.10.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.10.0), 6 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc3), 6 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc3), 1 week ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (15824)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (15856)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10610)
   - Convert Compose to Kubernetes
