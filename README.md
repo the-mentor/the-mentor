@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [Input injection, Accessibility handling, and an opt-in network bind](https://github.com/the-mentor/RDPie/pull/3) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
+- [Phase 4: NLA/CredSSP, plus live-testing fixes for display sizing, EGFX corruption, and cursor duplication](https://github.com/the-mentor/RDPie/pull/4) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [Phase 3: Input injection, Accessibility handling, and an opt-in network bind](https://github.com/the-mentor/RDPie/pull/3) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
 - [Phase 2: H.264 video encoding via MS-RDPEGFX (AVC420)](https://github.com/the-mentor/RDPie/pull/2) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 day ago)
 - [RDPie Phase 0-1: RDP core &#43; macOS screen capture daemon](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 days ago)
 - [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [feat(cbox): add -V/--version](https://github.com/the-mentor/claude-boxlite/pull/38) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (4)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (16011)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (16047)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10611)
   - Convert Compose to Kubernetes
