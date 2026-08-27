@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 days ago)
+- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
   - RDP Server for macOS 
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (3 days ago)
   - 
@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [Phase 4: NLA/CredSSP, plus live-testing fixes for display sizing, EGFX corruption, and cursor duplication](https://github.com/the-mentor/RDPie/pull/4) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 days ago)
-- [Phase 3: Input injection, Accessibility handling, and an opt-in network bind](https://github.com/the-mentor/RDPie/pull/3) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 days ago)
-- [Phase 2: H.264 video encoding via MS-RDPEGFX (AVC420)](https://github.com/the-mentor/RDPie/pull/2) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 days ago)
-- [RDPie Phase 0-1: RDP core &#43; macOS screen capture daemon](https://github.com/the-mentor/RDPie/pull/1) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 days ago)
-- [docs(ci): design spec for cbox release CI](https://github.com/the-mentor/claude-boxlite/pull/40) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (5 days ago)
+- [chore: split out a reset-only recipe for ironrdp submodule patches](https://github.com/the-mentor/RDPie/pull/9) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [fix: release stuck modifier keys on RDP Synchronize](https://github.com/the-mentor/RDPie/pull/8) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [chore: carry local ironrdp fixes as patch files, not submodule commits](https://github.com/the-mentor/RDPie/pull/7) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [fix: post drag mouse events while a button is held](https://github.com/the-mentor/RDPie/pull/6) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
+- [Phase 5: Clipboard sync (CLIPRDR)](https://github.com/the-mentor/RDPie/pull/5) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (today)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3137)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2278)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2279)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (7)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (17032)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (17136)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10618)
   - Convert Compose to Kubernetes
