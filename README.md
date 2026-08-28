@@ -42,10 +42,10 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc4](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc4), today)
+  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.11.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.11.0), 3 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc3), 1 week ago)
-  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
 - [the-mentor/PSmac](https://github.com/the-mentor/PSmac) ([v1.0.13](https://github.com/the-mentor/PSmac/releases/tag/v1.0.13), 1 month ago)
@@ -54,13 +54,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3137)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3139)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2279)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2282)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (7)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (17212)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (17365)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10618)
   - Convert Compose to Kubernetes
