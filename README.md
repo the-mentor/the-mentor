@@ -60,9 +60,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18571)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18581)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10618)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10619)
   - Convert Compose to Kubernetes
 
 
