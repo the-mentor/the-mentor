@@ -58,9 +58,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2296)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
-- [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (7)
+- [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18507)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18541)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10618)
   - Convert Compose to Kubernetes
