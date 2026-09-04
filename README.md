@@ -25,7 +25,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (2 weeks ago)
   - Run claude code in a micro VM (Boxlite)
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (4 weeks ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (1 month ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) (1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
@@ -42,9 +42,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.12.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.12.0), 2 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.12.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.12.0), 3 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc6](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc6), 2 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.0-rc6](https://github.com/kagent-dev/kagent/releases/tag/v0.10.0-rc6), 3 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3147)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2298)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2299)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18806)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (18890)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10618)
   - Convert Compose to Kubernetes
