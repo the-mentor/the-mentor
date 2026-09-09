@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (today)
+- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (1 day ago)
   - This to bridge your DJI controller to Drone Simulator
 - [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 week ago)
   - RDP Server for macOS 
@@ -42,7 +42,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.1), today)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.1), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.12.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.12.0), 1 week ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20160)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20181)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10621)
   - Convert Compose to Kubernetes
