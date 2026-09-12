@@ -54,13 +54,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3166)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3167)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2315)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2316)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20718)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20745)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10623)
   - Convert Compose to Kubernetes
