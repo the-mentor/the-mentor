@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (3 days ago)
+- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (4 days ago)
   - This to bridge your DJI controller to Drone Simulator
 - [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 weeks ago)
   - RDP Server for macOS 
@@ -42,9 +42,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.13.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.13.0), 2 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.13.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.13.0), 3 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.1), 3 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.1), 4 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 1 month ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20695)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (20701)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10623)
   - Convert Compose to Kubernetes
