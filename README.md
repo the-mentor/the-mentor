@@ -42,6 +42,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.1.3](https://github.com/terrateamio/action/releases/tag/v1.1.3), today)
+  - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.14.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.14.0), 2 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.1](https://github.com/kagent-dev/kagent/releases/tag/v0.10.1), 1 week ago)
@@ -56,13 +58,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3177)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2332)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2333)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (21375)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (21407)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10621)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) (10623)
   - Convert Compose to Kubernetes
 
 
