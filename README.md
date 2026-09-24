@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(image): run the box as non-root sandbox-user with passwordless sudo](https://github.com/the-mentor/claude-boxlite/pull/43) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
+- [feat(agentgateway): upgrade to v1.5.0, disable prompt capture by default](https://github.com/the-mentor/claude-boxlite/pull/42) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
+- [fix(deps): upgrade boxlite 0.9.7 -&gt; 0.10.4 for security fixes](https://github.com/the-mentor/claude-boxlite/pull/41) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 - [chore: split out a reset-only recipe for ironrdp submodule patches](https://github.com/the-mentor/RDPie/pull/9) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
 - [fix: release stuck modifier keys on RDP Synchronize](https://github.com/the-mentor/RDPie/pull/8) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
-- [chore: carry local ironrdp fixes as patch files, not submodule commits](https://github.com/the-mentor/RDPie/pull/7) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
-- [fix: post drag mouse events while a button is held](https://github.com/the-mentor/RDPie/pull/6) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
-- [Phase 5: Clipboard sync (CLIPRDR)](https://github.com/the-mentor/RDPie/pull/5) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -56,13 +56,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3191)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3192)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2343)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
-- [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
+- [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (9)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22046)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22060)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10627)
   - Convert Compose to Kubernetes
