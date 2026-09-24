@@ -19,11 +19,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (today)
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (1 day ago)
   - 
 - [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (2 weeks ago)
   - This to bridge your DJI controller to Drone Simulator
-- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
+- [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
   - RDP Server for macOS 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 month ago)
   - Run claude code in a micro VM (Boxlite)
@@ -33,18 +33,18 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [chore: split out a reset-only recipe for ironrdp submodule patches](https://github.com/the-mentor/RDPie/pull/9) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
-- [fix: release stuck modifier keys on RDP Synchronize](https://github.com/the-mentor/RDPie/pull/8) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
-- [chore: carry local ironrdp fixes as patch files, not submodule commits](https://github.com/the-mentor/RDPie/pull/7) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
-- [fix: post drag mouse events while a button is held](https://github.com/the-mentor/RDPie/pull/6) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
-- [Phase 5: Clipboard sync (CLIPRDR)](https://github.com/the-mentor/RDPie/pull/5) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (3 weeks ago)
+- [chore: split out a reset-only recipe for ironrdp submodule patches](https://github.com/the-mentor/RDPie/pull/9) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
+- [fix: release stuck modifier keys on RDP Synchronize](https://github.com/the-mentor/RDPie/pull/8) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
+- [chore: carry local ironrdp fixes as patch files, not submodule commits](https://github.com/the-mentor/RDPie/pull/7) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
+- [fix: post drag mouse events while a button is held](https://github.com/the-mentor/RDPie/pull/6) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
+- [Phase 5: Clipboard sync (CLIPRDR)](https://github.com/the-mentor/RDPie/pull/5) on [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (4 weeks ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha2](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha2), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha3), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.0](https://github.com/terrateamio/action/releases/tag/v1.2.0), 1 day ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.0](https://github.com/terrateamio/action/releases/tag/v1.2.0), 2 days ago)
   - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.14.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.14.0), 1 week ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
@@ -62,7 +62,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (8)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22026)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22031)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10627)
   - Convert Compose to Kubernetes
