@@ -19,6 +19,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+  - Run claude code in a micro VM
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (4 days ago)
@@ -27,31 +29,29 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - This to bridge your DJI controller to Drone Simulator
 - [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (1 month ago)
   - RDP Server for macOS 
-- [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 month ago)
-  - Run claude code in a micro VM (Boxlite)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [docs: add a terminal demo GIF to the README](https://github.com/the-mentor/no-ai-attribution/pull/28) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
-- [ci: test on every supported Python version (3.10-3.14)](https://github.com/the-mentor/no-ai-attribution/pull/27) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
-- [fix: make the block message agent-neutral](https://github.com/the-mentor/no-ai-attribution/pull/25) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
-- [fix: block Copilot, Cursor, Gemini, and Aider attribution trailers](https://github.com/the-mentor/no-ai-attribution/pull/23) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
-- [ci: name the test job &#39;Unit tests&#39;](https://github.com/the-mentor/no-ai-attribution/pull/22) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [ci: skip the Rust build on release-please&#39;s own PR](https://github.com/the-mentor/cbox/pull/62) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [fix(ci): always build on release PR merges so releases get binaries](https://github.com/the-mentor/cbox/pull/60) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [ci: run release after ci passes on main, cut the first release](https://github.com/the-mentor/cbox/pull/58) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [ci: build, test and release the repo with release-please](https://github.com/the-mentor/cbox/pull/57) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [chore(release): merge dev into main](https://github.com/the-mentor/cbox/pull/56) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.1](https://github.com/the-mentor/cbox/releases/tag/v0.1.1), today)
+  - Run claude code in a micro VM
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha5](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha5), today)
+  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), today)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha4](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha4), 2 days ago)
-  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.15.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.15.0), 3 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.0](https://github.com/terrateamio/action/releases/tag/v1.2.0), 5 days ago)
   - Terrateam Action
-- [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 2 months ago)
-  - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
