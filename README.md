@@ -33,16 +33,16 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(image): bake the no-ai-attribution plugin into the box](https://github.com/the-mentor/cbox/pull/65) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat(justfile): add just version to print the installed cbox version](https://github.com/the-mentor/cbox/pull/63) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [ci: skip the Rust build on release-please&#39;s own PR](https://github.com/the-mentor/cbox/pull/62) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [fix(ci): always build on release PR merges so releases get binaries](https://github.com/the-mentor/cbox/pull/60) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [ci: run release after ci passes on main, cut the first release](https://github.com/the-mentor/cbox/pull/58) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [ci: build, test and release the repo with release-please](https://github.com/the-mentor/cbox/pull/57) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [chore(release): merge dev into main](https://github.com/the-mentor/cbox/pull/56) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.1](https://github.com/the-mentor/cbox/releases/tag/v0.1.1), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.3](https://github.com/the-mentor/cbox/releases/tag/v0.1.3), today)
   - Run claude code in a micro VM
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha5](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha5), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3197)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3198)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2350)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
