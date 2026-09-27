@@ -19,6 +19,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+  - A plugin for claude/codex that blocks AI attribution
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (4 days ago)
   - 
 - [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (2 weeks ago)
@@ -27,21 +29,21 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - RDP Server for macOS 
 - [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (1 month ago)
   - Run claude code in a micro VM (Boxlite)
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (1 month ago)
-  - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat(image): add iTerm2 integration hooks for when Claude is waiting](https://github.com/the-mentor/claude-boxlite/pull/45) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [fix(cbox): pass registry config to exec so it can start a stopped box](https://github.com/the-mentor/claude-boxlite/pull/44) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [feat(image): run the box as non-root sandbox-user with passwordless sudo](https://github.com/the-mentor/claude-boxlite/pull/43) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [feat(agentgateway): upgrade to v1.5.0, disable prompt capture by default](https://github.com/the-mentor/claude-boxlite/pull/42) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
-- [fix(deps): upgrade boxlite 0.9.7 -&gt; 0.10.4 for security fixes](https://github.com/the-mentor/claude-boxlite/pull/41) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (3 days ago)
+- [fix: verify release PR contents before auto-merge](https://github.com/the-mentor/no-ai-attribution/pull/10) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [feat: open and auto-merge release PRs as the release GitHub App](https://github.com/the-mentor/no-ai-attribution/pull/8) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [fix: skip release PR approval when release-please leaves the PR unchanged](https://github.com/the-mentor/no-ai-attribution/pull/6) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [feat: auto-approve release PRs with the release GitHub App](https://github.com/the-mentor/no-ai-attribution/pull/4) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [feat(justfile): pick up a local agentgateway compose override when present](https://github.com/the-mentor/claude-boxlite/pull/48) on [the-mentor/claude-boxlite](https://github.com/the-mentor/claude-boxlite) (today)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.4](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.4), today)
+  - A plugin for claude/codex that blocks AI attribution
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha4](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha4), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.15.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.15.0), 3 days ago)
@@ -50,19 +52,17 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Terrateam Action
 - [the-mentor/kagent-claude-byo-agent](https://github.com/the-mentor/kagent-claude-byo-agent) ([v1.0.3](https://github.com/the-mentor/kagent-claude-byo-agent/releases/tag/v1.0.3), 2 months ago)
   - Claude Code BYO agent for kagent — runs Claude as an A2A SandboxAgent in Kubernetes
-- [the-mentor/PSmac](https://github.com/the-mentor/PSmac) ([v1.0.13](https://github.com/the-mentor/PSmac/releases/tag/v1.0.13), 2 months ago)
-  - 
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3195)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3197)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2349)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2350)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (9)
   - Agent Substrate: the core system
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22271)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) (22290)
   - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry.
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) (10629)
   - Convert Compose to Kubernetes
