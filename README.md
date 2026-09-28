@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(cbox): add --allow-net egress allow-list and --network disabled](https://github.com/the-mentor/cbox/pull/71) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [fix(cbox): delete the box home on down](https://github.com/the-mentor/cbox/pull/69) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [feat(ci): build and publish the cbox-base image](https://github.com/the-mentor/cbox/pull/67) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [feat(image): bake the no-ai-attribution plugin into the box](https://github.com/the-mentor/cbox/pull/65) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [feat(justfile): add just version to print the installed cbox version](https://github.com/the-mentor/cbox/pull/63) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
-- [ci: skip the Rust build on release-please&#39;s own PR](https://github.com/the-mentor/cbox/pull/62) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3201)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3202)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2350)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
