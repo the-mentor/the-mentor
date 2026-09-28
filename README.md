@@ -19,11 +19,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
   - Run claude code in a micro VM
-- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (today)
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (1 day ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (4 days ago)
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (5 days ago)
   - 
 - [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (2 weeks ago)
   - This to bridge your DJI controller to Drone Simulator
@@ -33,24 +33,24 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat(image): bake the no-ai-attribution plugin into the box](https://github.com/the-mentor/cbox/pull/65) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [feat(justfile): add just version to print the installed cbox version](https://github.com/the-mentor/cbox/pull/63) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [ci: skip the Rust build on release-please&#39;s own PR](https://github.com/the-mentor/cbox/pull/62) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [fix(ci): always build on release PR merges so releases get binaries](https://github.com/the-mentor/cbox/pull/60) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [ci: run release after ci passes on main, cut the first release](https://github.com/the-mentor/cbox/pull/58) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat(image): bake the no-ai-attribution plugin into the box](https://github.com/the-mentor/cbox/pull/65) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [feat(justfile): add just version to print the installed cbox version](https://github.com/the-mentor/cbox/pull/63) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [ci: skip the Rust build on release-please&#39;s own PR](https://github.com/the-mentor/cbox/pull/62) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [fix(ci): always build on release PR merges so releases get binaries](https://github.com/the-mentor/cbox/pull/60) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [ci: run release after ci passes on main, cut the first release](https://github.com/the-mentor/cbox/pull/58) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.3](https://github.com/the-mentor/cbox/releases/tag/v0.1.3), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.3](https://github.com/the-mentor/cbox/releases/tag/v0.1.3), 1 day ago)
   - Run claude code in a micro VM
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha5](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha5), today)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha5](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha5), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), today)
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), 1 day ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.15.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.15.0), 3 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.15.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.15.0), 4 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.0](https://github.com/terrateamio/action/releases/tag/v1.2.0), 5 days ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.0](https://github.com/terrateamio/action/releases/tag/v1.2.0), 6 days ago)
   - Terrateam Action
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
@@ -60,7 +60,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3198)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3199)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2350)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
