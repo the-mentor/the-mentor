@@ -42,6 +42,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.16.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.16.0), today)
+  - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.6](https://github.com/the-mentor/cbox/releases/tag/v0.1.6), today)
   - Run claude code in a micro VM
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.1](https://github.com/terrateamio/action/releases/tag/v1.2.1), today)
@@ -50,8 +52,6 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), 2 days ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.15.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.15.0), 5 days ago)
-  - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
