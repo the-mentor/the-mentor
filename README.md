@@ -33,19 +33,19 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [perf(base): drop build caches and share oh-my-posh themes](https://github.com/the-mentor/cbox/pull/79) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat(base): bump uv to 0.12.21 and install pre-commit](https://github.com/the-mentor/cbox/pull/77) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [docs: add an example value for AGENTGATEWAY_ANTHROPIC_UPSTREAM_HOST](https://github.com/the-mentor/cbox/pull/76) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [fix(cbox): sweep unused disk images on up --force](https://github.com/the-mentor/cbox/pull/74) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [fix(agentgateway): allow the admin UI playgrounds through CORS](https://github.com/the-mentor/cbox/pull/72) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
-- [feat(cbox): add --allow-net egress allow-list and --network disabled](https://github.com/the-mentor/cbox/pull/71) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [fix(cbox): delete the box home on down](https://github.com/the-mentor/cbox/pull/69) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [feat(ci): build and publish the cbox-base image](https://github.com/the-mentor/cbox/pull/67) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [feat(image): bake the no-ai-attribution plugin into the box](https://github.com/the-mentor/cbox/pull/65) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (3 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.9](https://github.com/the-mentor/cbox/releases/tag/v0.1.9), today)
+  - Run claude code in a micro VM
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.16.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.16.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.6](https://github.com/the-mentor/cbox/releases/tag/v0.1.6), 1 day ago)
-  - Run claude code in a micro VM
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.1](https://github.com/terrateamio/action/releases/tag/v1.2.1), 1 day ago)
   - Terrateam Action
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha5](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha5), 3 days ago)
@@ -60,9 +60,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3202)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3203)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2355)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2357)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (9)
   - Agent Substrate: the core system
