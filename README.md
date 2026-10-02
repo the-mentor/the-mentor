@@ -42,10 +42,10 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.3](https://github.com/terrateamio/action/releases/tag/v1.2.3), today)
+  - Terrateam Action
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha7](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha7), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.2](https://github.com/terrateamio/action/releases/tag/v1.2.2), 2 days ago)
-  - Terrateam Action
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.9](https://github.com/the-mentor/cbox/releases/tag/v0.1.9), 2 days ago)
   - Run claude code in a micro VM
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.16.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.16.0), 3 days ago)
@@ -62,7 +62,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3208)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2362)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2363)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (9)
   - Agent Substrate: the core system
