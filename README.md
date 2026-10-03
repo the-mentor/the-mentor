@@ -62,7 +62,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3208)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2363)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2364)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (10)
   - Agent Substrate: the core system
