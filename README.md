@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
   - Run claude code in a micro VM
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
@@ -33,22 +33,22 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [fix(cbox): stop the hookfwd drain test racing on ETXTBSY](https://github.com/the-mentor/cbox/pull/85) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [chore(deps): upgrade boxlite to 0.10.5](https://github.com/the-mentor/cbox/pull/84) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [fix(cbox): renew an expiring MITM CA when a box starts](https://github.com/the-mentor/cbox/pull/82) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (4 days ago)
-- [perf(base): drop build caches and share oh-my-posh themes](https://github.com/the-mentor/cbox/pull/79) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (4 days ago)
-- [feat(base): bump uv to 0.12.21 and install pre-commit](https://github.com/the-mentor/cbox/pull/77) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (4 days ago)
+- [fix(cbox): stop the hookfwd drain test racing on ETXTBSY](https://github.com/the-mentor/cbox/pull/85) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [chore(deps): upgrade boxlite to 0.10.5](https://github.com/the-mentor/cbox/pull/84) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [fix(cbox): renew an expiring MITM CA when a box starts](https://github.com/the-mentor/cbox/pull/82) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
+- [perf(base): drop build caches and share oh-my-posh themes](https://github.com/the-mentor/cbox/pull/79) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
+- [feat(base): bump uv to 0.12.21 and install pre-commit](https://github.com/the-mentor/cbox/pull/77) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.11](https://github.com/the-mentor/cbox/releases/tag/v0.1.11), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.11](https://github.com/the-mentor/cbox/releases/tag/v0.1.11), 1 day ago)
   - Run claude code in a micro VM
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.3](https://github.com/terrateamio/action/releases/tag/v1.2.3), 2 days ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.3](https://github.com/terrateamio/action/releases/tag/v1.2.3), 3 days ago)
   - Terrateam Action
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha7](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha7), 3 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha7](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha7), 4 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.16.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.16.0), 5 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.16.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.16.0), 6 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), 1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
@@ -62,7 +62,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3209)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2421)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2437)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (10)
   - Agent Substrate: the core system
