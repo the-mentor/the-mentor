@@ -42,14 +42,14 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha9](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha9), today)
+  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.12](https://github.com/the-mentor/cbox/releases/tag/v0.1.12), today)
   - Run claude code in a micro VM
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.6](https://github.com/terrateamio/action/releases/tag/v1.2.6), today)
   - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.17.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.17.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha8](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha8), 2 days ago)
-  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.10](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.10), 1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 
@@ -62,7 +62,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3213)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2521)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2522)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (10)
   - Agent Substrate: the core system
