@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
   - Run claude code in a micro VM
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (2 days ago)
   - 
@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [docs: add DeepWiki badge to README](https://github.com/the-mentor/cbox/pull/90) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [feat(custom): bake in plugins from private marketplaces](https://github.com/the-mentor/cbox/pull/88) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [chore(agentgateway): upgrade to v1.6.0](https://github.com/the-mentor/cbox/pull/87) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [fix(cbox): stop the hookfwd drain test racing on ETXTBSY](https://github.com/the-mentor/cbox/pull/85) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (4 days ago)
 - [chore(deps): upgrade boxlite to 0.10.5](https://github.com/the-mentor/cbox/pull/84) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (4 days ago)
-- [fix(cbox): renew an expiring MITM CA when a box starts](https://github.com/the-mentor/cbox/pull/82) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -56,15 +56,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (832)
+  - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3214)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3215)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2523)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2524)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
-- [kagent-dev/substrate](https://github.com/kagent-dev/substrate) (10)
-  - Agent Substrate: the core system
 
 
