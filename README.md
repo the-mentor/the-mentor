@@ -42,10 +42,10 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha10](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha10), today)
+  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.7](https://github.com/terrateamio/action/releases/tag/v1.2.7), 1 day ago)
   - Terrateam Action
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha9](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha9), 2 days ago)
-  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.12](https://github.com/the-mentor/cbox/releases/tag/v0.1.12), 2 days ago)
   - Run claude code in a micro VM
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.17.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.17.0), 3 days ago)
@@ -56,13 +56,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1045)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1126)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3216)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3217)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2526)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
