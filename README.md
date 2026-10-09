@@ -56,15 +56,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (974)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1045)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3215)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3216)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2524)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2526)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 
 
