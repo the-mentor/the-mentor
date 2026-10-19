@@ -42,7 +42,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha15](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha15), today)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha16](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha16), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.0](https://github.com/terrateamio/action/releases/tag/v1.3.0), today)
   - Terrateam Action
@@ -56,7 +56,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1829)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1838)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
@@ -64,7 +64,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3235)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2592)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2594)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 
 
