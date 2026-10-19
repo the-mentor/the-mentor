@@ -42,29 +42,29 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha14](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha14), 3 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha15](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha15), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.0](https://github.com/terrateamio/action/releases/tag/v1.3.0), today)
+  - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.18.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.18.0), 6 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.14](https://github.com/the-mentor/cbox/releases/tag/v0.1.14), 1 week ago)
   - Run claude code in a micro VM
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.2.7](https://github.com/terrateamio/action/releases/tag/v1.2.7), 1 week ago)
-  - Terrateam Action
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1819)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1829)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3233)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3235)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2589)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2592)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 
 
