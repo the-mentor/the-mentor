@@ -33,7 +33,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat(cbox): upgrade boxlite to 0.10.7](https://github.com/the-mentor/cbox/pull/105) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat(cbox): upgrade boxlite to 0.10.7](https://github.com/the-mentor/cbox/pull/105) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [build: let Dependabot bump uv, pre-commit and boxlite](https://github.com/the-mentor/cbox/pull/98) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [fix(base): install pre-commit as a uv tool so its deps don&#39;t clash with Debian&#39;s packaging](https://github.com/the-mentor/cbox/pull/96) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [feat(custom): override default plugins via CBOX_MARKETPLACES/CBOX_PLUGINS in .env](https://github.com/the-mentor/cbox/pull/94) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
@@ -42,11 +42,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.19.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.19.0), today)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.19.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.19.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha16](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha16), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha16](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha16), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.0](https://github.com/terrateamio/action/releases/tag/v1.3.0), 1 day ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.0](https://github.com/terrateamio/action/releases/tag/v1.3.0), 2 days ago)
   - Terrateam Action
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.14](https://github.com/the-mentor/cbox/releases/tag/v0.1.14), 1 week ago)
   - Run claude code in a micro VM
@@ -56,7 +56,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1864)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1866)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
