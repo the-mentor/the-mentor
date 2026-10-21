@@ -19,8 +19,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
-  - Run claude code in a micro VM
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+  - Run a coding agent like claude-code in a micro VM sandbox
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (2 weeks ago)
@@ -33,30 +33,30 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [docs: add sandbox architecture diagram to README](https://github.com/the-mentor/cbox/pull/107) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [feat(cbox): upgrade boxlite to 0.10.7 and remove clean-cache](https://github.com/the-mentor/cbox/pull/105) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [build: let Dependabot bump uv, pre-commit and boxlite](https://github.com/the-mentor/cbox/pull/98) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [fix(base): install pre-commit as a uv tool so its deps don&#39;t clash with Debian&#39;s packaging](https://github.com/the-mentor/cbox/pull/96) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [feat(custom): override default plugins via CBOX_MARKETPLACES/CBOX_PLUGINS in .env](https://github.com/the-mentor/cbox/pull/94) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
-- [ci: strip the cloud connector&#39;s PR footer](https://github.com/the-mentor/no-ai-attribution/pull/37) on [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (1 week ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.15](https://github.com/the-mentor/cbox/releases/tag/v0.1.15), today)
+  - Run a coding agent like claude-code in a micro VM sandbox
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha17](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha17), today)
+  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.19.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.19.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-alpha16](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-alpha16), 2 days ago)
-  - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.0](https://github.com/terrateamio/action/releases/tag/v1.3.0), 2 days ago)
   - Terrateam Action
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.14](https://github.com/the-mentor/cbox/releases/tag/v0.1.14), 1 week ago)
-  - Run claude code in a micro VM
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 1 week ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1889)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (1897)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
@@ -64,7 +64,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3243)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2606)
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2608)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 
 
