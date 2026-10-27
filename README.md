@@ -33,11 +33,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(cbox): upgrade boxlite to 0.10.8](https://github.com/the-mentor/cbox/pull/115) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [ci: list Brotli copies in the custom image after building it](https://github.com/the-mentor/cbox/pull/113) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (3 days ago)
 - [chore(deps): let dependabot update every crate in Cargo.lock](https://github.com/the-mentor/cbox/pull/110) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
 - [fix(deps): bump webpki-roots to 1.0.10 and rustls-webpki to 0.103.16 to distrust compromised eMudhra CAs](https://github.com/the-mentor/cbox/pull/109) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
 - [docs: add sandbox architecture diagram to README](https://github.com/the-mentor/cbox/pull/107) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (6 days ago)
-- [feat(cbox): upgrade boxlite to 0.10.7 and remove clean-cache](https://github.com/the-mentor/cbox/pull/105) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
@@ -56,13 +56,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2252)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2255)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3255)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3256)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) (2639)
   - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
