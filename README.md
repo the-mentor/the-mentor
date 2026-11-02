@@ -19,12 +19,12 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (today)
+  - 
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) (5 days ago)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (3 weeks ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (3 weeks ago)
-  - 
 - [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (1 month ago)
   - This to bridge your DJI controller to Drone Simulator
 - [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 months ago)
@@ -56,9 +56,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1003)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1007)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2378)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2384)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
