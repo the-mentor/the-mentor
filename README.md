@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (2 days ago)
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (3 days ago)
   - 
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
   - Run a coding agent like claude-code in a micro VM sandbox
@@ -33,18 +33,18 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat(agentgateway): upgrade to v1.7.0](https://github.com/the-mentor/cbox/pull/117) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (6 days ago)
+- [feat(agentgateway): upgrade to v1.7.0](https://github.com/the-mentor/cbox/pull/117) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [feat(cbox): upgrade boxlite to 0.10.8](https://github.com/the-mentor/cbox/pull/115) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [ci: list Brotli copies in the custom image after building it](https://github.com/the-mentor/cbox/pull/113) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
-- [chore(deps): let dependabot update every crate in Cargo.lock](https://github.com/the-mentor/cbox/pull/110) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
-- [fix(deps): bump webpki-roots to 1.0.10 and rustls-webpki to 0.103.16 to distrust compromised eMudhra CAs](https://github.com/the-mentor/cbox/pull/109) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
+- [chore(deps): let dependabot update every crate in Cargo.lock](https://github.com/the-mentor/cbox/pull/110) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 weeks ago)
+- [fix(deps): bump webpki-roots to 1.0.10 and rustls-webpki to 0.103.16 to distrust compromised eMudhra CAs](https://github.com/the-mentor/cbox/pull/109) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 weeks ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc2](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc2), today)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.5](https://github.com/kagent-dev/kagent/releases/tag/v0.10.5), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.2](https://github.com/terrateamio/action/releases/tag/v1.3.2), today)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.2](https://github.com/terrateamio/action/releases/tag/v1.3.2), 1 day ago)
   - Terrateam Action
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.17](https://github.com/the-mentor/cbox/releases/tag/v0.1.17), 1 week ago)
   - Run a coding agent like claude-code in a micro VM sandbox
@@ -56,9 +56,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1057)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1070)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2421)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2422)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
