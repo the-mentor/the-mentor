@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (4 days ago)
   - 
@@ -33,18 +33,18 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat: turn off commit and PR attribution in the box settings](https://github.com/the-mentor/cbox/pull/124) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
-- [feat: add cbox-base-rust image for developing cbox](https://github.com/the-mentor/cbox/pull/123) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
-- [feat: show each box&#39;s disk usage as a SIZE column in cbox list](https://github.com/the-mentor/cbox/pull/121) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
-- [feat(agentgateway): upgrade to v1.7.0](https://github.com/the-mentor/cbox/pull/117) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
-- [feat(cbox): upgrade boxlite to 0.10.8](https://github.com/the-mentor/cbox/pull/115) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
+- [feat: add cbox secret management (create, list, edit, delete, up --secret NAME)](https://github.com/the-mentor/cbox/pull/135) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [docs: restructure README with quickstart, feature list and collapsible reference](https://github.com/the-mentor/cbox/pull/134) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat(cbox): upgrade boxlite to 0.11.0](https://github.com/the-mentor/cbox/pull/131) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [chore: bake pr-review-toolkit into the custom image](https://github.com/the-mentor/cbox/pull/130) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [ci: publish releases only after binaries are attached, so they can be immutable](https://github.com/the-mentor/cbox/pull/129) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.6](https://github.com/kagent-dev/kagent/releases/tag/v0.10.6), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc3), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.20](https://github.com/the-mentor/cbox/releases/tag/v0.1.20), 1 day ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.22](https://github.com/the-mentor/cbox/releases/tag/v0.1.22), today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 1 day ago)
   - Terrateam Action
@@ -56,15 +56,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1106)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1108)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2431)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2433)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3278)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3277)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 
 
