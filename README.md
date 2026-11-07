@@ -19,13 +19,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
   - Run a coding agent like claude-code in a micro VM sandbox
-- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (4 days ago)
+- [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (5 days ago)
   - 
-- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (3 weeks ago)
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4 weeks ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (1 month ago)
+- [the-mentor/DJIamControllerBridge](https://github.com/the-mentor/DJIamControllerBridge) (2 months ago)
   - This to bridge your DJI controller to Drone Simulator
 - [the-mentor/RDPie](https://github.com/the-mentor/RDPie) (2 months ago)
   - RDP Server for macOS 
@@ -33,32 +33,32 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat: add cbox secret management (create, list, edit, delete, up --secret NAME)](https://github.com/the-mentor/cbox/pull/135) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [docs: restructure README with quickstart, feature list and collapsible reference](https://github.com/the-mentor/cbox/pull/134) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [feat(cbox): upgrade boxlite to 0.11.0](https://github.com/the-mentor/cbox/pull/131) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [chore: bake pr-review-toolkit into the custom image](https://github.com/the-mentor/cbox/pull/130) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [ci: publish releases only after binaries are attached, so they can be immutable](https://github.com/the-mentor/cbox/pull/129) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat: add cbox secret management (create, list, edit, delete, up --secret NAME)](https://github.com/the-mentor/cbox/pull/135) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [docs: restructure README with quickstart, feature list and collapsible reference](https://github.com/the-mentor/cbox/pull/134) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [feat(cbox): upgrade boxlite to 0.11.0](https://github.com/the-mentor/cbox/pull/131) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [chore: bake pr-review-toolkit into the custom image](https://github.com/the-mentor/cbox/pull/130) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [ci: publish releases only after binaries are attached, so they can be immutable](https://github.com/the-mentor/cbox/pull/129) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.23](https://github.com/the-mentor/cbox/releases/tag/v0.1.23), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.23](https://github.com/the-mentor/cbox/releases/tag/v0.1.23), 1 day ago)
   - Run a coding agent like claude-code in a micro VM sandbox
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc3), today)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc3), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 1 day ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 2 days ago)
   - Terrateam Action
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 1 day ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 2 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 3 weeks ago)
+- [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 4 weeks ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1114)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1116)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2436)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2439)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
