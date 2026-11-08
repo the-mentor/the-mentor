@@ -33,16 +33,16 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [fix: keep just up, exec, down, list and up-dev arguments whole](https://github.com/the-mentor/cbox/pull/148) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [fix: secret create, edit and delete print help when run without arguments](https://github.com/the-mentor/cbox/pull/146) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat: profiles (cbox profile, cbox up --profile)](https://github.com/the-mentor/cbox/pull/145) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [feat: add Windows Credential Manager secret store for WSL](https://github.com/the-mentor/cbox/pull/141) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 - [feat: add cbox secret management (create, list, edit, delete, up --secret NAME)](https://github.com/the-mentor/cbox/pull/135) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [docs: restructure README with quickstart, feature list and collapsible reference](https://github.com/the-mentor/cbox/pull/134) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [feat(cbox): upgrade boxlite to 0.11.0](https://github.com/the-mentor/cbox/pull/131) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [chore: bake pr-review-toolkit into the custom image](https://github.com/the-mentor/cbox/pull/130) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.24](https://github.com/the-mentor/cbox/releases/tag/v0.1.24), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.25](https://github.com/the-mentor/cbox/releases/tag/v0.1.25), today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc3), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -56,9 +56,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1133)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1137)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2459)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2463)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
