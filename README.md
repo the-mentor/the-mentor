@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (6 days ago)
   - 
@@ -42,7 +42,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.23](https://github.com/the-mentor/cbox/releases/tag/v0.1.23), 2 days ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.24](https://github.com/the-mentor/cbox/releases/tag/v0.1.24), today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0-rc3](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0-rc3), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -56,15 +56,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1128)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1133)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2456)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2459)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3282)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3284)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 
 
