@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (1 week ago)
   - 
@@ -33,19 +33,19 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat: draft agent-free base image and per-agent images (not built by CI)](https://github.com/the-mentor/cbox/pull/160) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [fix: write profiles.toml in a fixed order: [default] first, then image, env, secrets, sizes](https://github.com/the-mentor/cbox/pull/156) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 - [feat: add cbox completion command](https://github.com/the-mentor/cbox/pull/155) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 - [feat: environment variables in profiles](https://github.com/the-mentor/cbox/pull/154) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 - [docs: document stored secrets and profiles in the README](https://github.com/the-mentor/cbox/pull/150) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
-- [fix: keep just up, exec, down, list and up-dev arguments whole](https://github.com/the-mentor/cbox/pull/148) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), today)
+  - Run a coding agent like claude-code in a micro VM sandbox
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0), 1 day ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.28](https://github.com/the-mentor/cbox/releases/tag/v0.1.28), 2 days ago)
-  - Run a coding agent like claude-code in a micro VM sandbox
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 5 days ago)
   - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 5 days ago)
@@ -56,15 +56,15 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1154)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1153)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2473)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2475)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) (4)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3292)
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) (3293)
   - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 
 
