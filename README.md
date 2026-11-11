@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (14)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (16)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1162)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1166)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2482)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2483)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
