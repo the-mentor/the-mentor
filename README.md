@@ -19,9 +19,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
   - Run a coding agent like claude-code in a micro VM sandbox
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (today)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 day ago)
   - Playstation Broadcast Stream payload and browser viewer
 - [the-mentor/homeassistant-addons](https://github.com/the-mentor/homeassistant-addons) (1 week ago)
   - 
@@ -33,22 +33,22 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
-- [ci: add unit-test and payload-build workflow](https://github.com/seregonwar/PBS-Payload/pull/5) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (today)
-- [ci: add unit-test and payload-build workflow](https://github.com/the-mentor/PBS-Payload/pull/1) on [the-mentor/PBS-Payload](https://github.com/the-mentor/PBS-Payload) (today)
-- [Pin GitHub Actions to commit SHAs and add Dependabot](https://github.com/seregonwar/PBS-Payload/pull/1) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (today)
-- [feat(base): run gh auth setup-git after installing gh](https://github.com/the-mentor/cbox/pull/161) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
+- [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
+- [ci: add unit-test and payload-build workflow](https://github.com/seregonwar/PBS-Payload/pull/5) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 day ago)
+- [ci: add unit-test and payload-build workflow](https://github.com/the-mentor/PBS-Payload/pull/1) on [the-mentor/PBS-Payload](https://github.com/the-mentor/PBS-Payload) (1 day ago)
+- [Pin GitHub Actions to commit SHAs and add Dependabot](https://github.com/seregonwar/PBS-Payload/pull/1) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 day ago)
+- [feat(base): run gh auth setup-git after installing gh](https://github.com/the-mentor/cbox/pull/161) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 day ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), today)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), 1 day ago)
   - Run a coding agent like claude-code in a micro VM sandbox
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.0](https://github.com/kagent-dev/kagent/releases/tag/v1.0.0), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 5 days ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.4](https://github.com/terrateamio/action/releases/tag/v1.3.4), 6 days ago)
   - Terrateam Action
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 5 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 6 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 1 month ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (13)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (14)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1159)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1162)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2480)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2482)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
