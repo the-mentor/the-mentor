@@ -33,19 +33,19 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(daytona): route sandbox traffic through DAYTONA_OUTBOUND_PROXY_URL](https://github.com/omnigent-ai/omnigent/pull/13751) on [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (today)
 - [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 - [ci: add unit-test and payload-build workflow](https://github.com/seregonwar/PBS-Payload/pull/5) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (2 days ago)
 - [ci: add unit-test and payload-build workflow](https://github.com/the-mentor/PBS-Payload/pull/1) on [the-mentor/PBS-Payload](https://github.com/the-mentor/PBS-Payload) (2 days ago)
 - [Pin GitHub Actions to commit SHAs and add Dependabot](https://github.com/seregonwar/PBS-Payload/pull/1) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (2 days ago)
-- [feat(base): run gh auth setup-git after installing gh](https://github.com/the-mentor/cbox/pull/161) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.6](https://github.com/terrateamio/action/releases/tag/v1.3.6), today)
+  - Terrateam Action
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.1](https://github.com/kagent-dev/kagent/releases/tag/v1.0.1), today)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.5](https://github.com/terrateamio/action/releases/tag/v1.3.5), 1 day ago)
-  - Terrateam Action
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), 2 days ago)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.21.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.21.0), 1 week ago)
@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (29)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (32)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1195)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1202)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2502)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2510)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
