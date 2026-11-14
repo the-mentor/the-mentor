@@ -42,10 +42,10 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.7](https://github.com/terrateamio/action/releases/tag/v1.3.7), today)
+  - Terrateam Action
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.22.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.22.0), 1 day ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.6](https://github.com/terrateamio/action/releases/tag/v1.3.6), 2 days ago)
-  - Terrateam Action
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.1](https://github.com/kagent-dev/kagent/releases/tag/v1.0.1), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), 4 days ago)
@@ -58,9 +58,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (39)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1225)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1229)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2522)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2524)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
