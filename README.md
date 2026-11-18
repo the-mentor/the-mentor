@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (5 days ago)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (6 days ago)
   - Playstation Broadcast Stream payload and browser viewer
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
   - Run a coding agent like claude-code in a micro VM sandbox
@@ -33,8 +33,8 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [Pin actions/upload-artifact to a commit SHA](https://github.com/seregonwar/PBS-Payload/pull/14) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (5 days ago)
-- [feat(daytona): route sandbox traffic through DAYTONA_OUTBOUND_PROXY_URL](https://github.com/omnigent-ai/omnigent/pull/13751) on [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (5 days ago)
+- [Pin actions/upload-artifact to a commit SHA](https://github.com/seregonwar/PBS-Payload/pull/14) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (6 days ago)
+- [feat(daytona): route sandbox traffic through DAYTONA_OUTBOUND_PROXY_URL](https://github.com/omnigent-ai/omnigent/pull/13751) on [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (6 days ago)
 - [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [ci: add unit-test and payload-build workflow](https://github.com/seregonwar/PBS-Payload/pull/5) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 week ago)
 - [ci: add unit-test and payload-build workflow](https://github.com/the-mentor/PBS-Payload/pull/1) on [the-mentor/PBS-Payload](https://github.com/the-mentor/PBS-Payload) (1 week ago)
@@ -42,11 +42,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.7](https://github.com/terrateamio/action/releases/tag/v1.3.7), 3 days ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.7](https://github.com/terrateamio/action/releases/tag/v1.3.7), 4 days ago)
   - Terrateam Action
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.22.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.22.0), 4 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.22.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.22.0), 5 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.1](https://github.com/kagent-dev/kagent/releases/tag/v1.0.1), 5 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.1](https://github.com/kagent-dev/kagent/releases/tag/v1.0.1), 6 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.29](https://github.com/the-mentor/cbox/releases/tag/v0.1.29), 1 week ago)
   - Run a coding agent like claude-code in a micro VM sandbox
@@ -58,9 +58,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (41)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1284)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1286)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2595)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2597)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
