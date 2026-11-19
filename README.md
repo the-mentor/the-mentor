@@ -42,9 +42,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.7](https://github.com/terrateamio/action/releases/tag/v1.3.7), 5 days ago)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.9](https://github.com/terrateamio/action/releases/tag/v1.3.9), today)
   - Terrateam Action
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.22.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.22.0), 6 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.23.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.23.0), today)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v1.0.1](https://github.com/kagent-dev/kagent/releases/tag/v1.0.1), 1 week ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -58,9 +58,9 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 
 - [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (41)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1297)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1298)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2612)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2622)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
