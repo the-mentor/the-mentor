@@ -33,16 +33,16 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
+- [feat(cbox): run the image&#39;s sandbox-agent by default, falling back to claude](https://github.com/the-mentor/cbox/pull/173) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (today)
 - [Pin actions/upload-artifact to a commit SHA](https://github.com/seregonwar/PBS-Payload/pull/14) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 week ago)
 - [feat(daytona): route sandbox traffic through DAYTONA_OUTBOUND_PROXY_URL](https://github.com/omnigent-ai/omnigent/pull/13751) on [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (1 week ago)
 - [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (1 week ago)
 - [ci: add unit-test and payload-build workflow](https://github.com/seregonwar/PBS-Payload/pull/5) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 week ago)
-- [ci: add unit-test and payload-build workflow](https://github.com/the-mentor/PBS-Payload/pull/1) on [the-mentor/PBS-Payload](https://github.com/the-mentor/PBS-Payload) (1 week ago)
 
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.30](https://github.com/the-mentor/cbox/releases/tag/v0.1.30), 1 day ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.31](https://github.com/the-mentor/cbox/releases/tag/v0.1.31), today)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.9](https://github.com/terrateamio/action/releases/tag/v1.3.9), 3 days ago)
   - Terrateam Action
@@ -56,11 +56,11 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (43)
+- [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (44)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1322)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1323)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2676)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2680)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
