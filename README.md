@@ -19,7 +19,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/contributions.svg" alt="Recent project contributions">
 
 
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) (3 days ago)
   - Run a coding agent like claude-code in a micro VM sandbox
 - [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 week ago)
   - Playstation Broadcast Stream payload and browser viewer
@@ -33,7 +33,7 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/pulls.svg" alt="Recent pull requests">
 
 
-- [feat(cbox): run the image&#39;s sandbox-agent by default, falling back to claude](https://github.com/the-mentor/cbox/pull/173) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 days ago)
+- [feat(cbox): run the image&#39;s sandbox-agent by default, falling back to claude](https://github.com/the-mentor/cbox/pull/173) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (3 days ago)
 - [Pin actions/upload-artifact to a commit SHA](https://github.com/seregonwar/PBS-Payload/pull/14) on [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (1 week ago)
 - [feat(daytona): route sandbox traffic through DAYTONA_OUTBOUND_PROXY_URL](https://github.com/omnigent-ai/omnigent/pull/13751) on [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) (1 week ago)
 - [feat!: git credentials from stored secrets (--git/--user)](https://github.com/the-mentor/cbox/pull/162) on [the-mentor/cbox](https://github.com/the-mentor/cbox) (2 weeks ago)
@@ -42,13 +42,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/releases.svg" alt="Recent releases">
 
 
-- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.10](https://github.com/terrateamio/action/releases/tag/v1.3.10), today)
+- [terrateamio/action](https://github.com/terrateamio/action) ([v1.3.10](https://github.com/terrateamio/action/releases/tag/v1.3.10), 1 day ago)
   - Terrateam Action
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.7](https://github.com/kagent-dev/kagent/releases/tag/v0.10.7), 1 day ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) ([v0.10.7](https://github.com/kagent-dev/kagent/releases/tag/v0.10.7), 2 days ago)
   - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.31](https://github.com/the-mentor/cbox/releases/tag/v0.1.31), 2 days ago)
+- [the-mentor/cbox](https://github.com/the-mentor/cbox) ([v0.1.31](https://github.com/the-mentor/cbox/releases/tag/v0.1.31), 3 days ago)
   - Run a coding agent like claude-code in a micro VM sandbox
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.23.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.23.0), 5 days ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) ([v0.23.0](https://github.com/omnigent-ai/omnigent/releases/tag/v0.23.0), 6 days ago)
   - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 - [the-mentor/no-ai-attribution](https://github.com/the-mentor/no-ai-attribution) ([v0.2.12](https://github.com/the-mentor/no-ai-attribution/releases/tag/v0.2.12), 1 month ago)
   - Hook plugin for Claude Code, Codex CLI, Copilot CLI, and Qoder that blocks AI attribution (Co-Authored-By trailers, &#34;Generated with&#34; footers) in git commits, PRs, and issues.
@@ -56,13 +56,13 @@ Hello 👋 I'm Avri — architect, tech lead and DevOps engineer. Yesterday's cl
 <img src="https://raw.githubusercontent.com/the-mentor/the-mentor/main/.github/headings/stars.svg" alt="Recent starred projects">
 
 
-- [xcl-dev/xcl](https://github.com/xcl-dev/xcl) (7718)
+- [xcl-dev/xcl](https://github.com/xcl-dev/xcl) (7938)
   - Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
 - [seregonwar/PBS-Payload](https://github.com/seregonwar/PBS-Payload) (45)
   - Playstation Broadcast Stream payload and browser viewer
-- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1353)
+- [phantomptr/ps5upload](https://github.com/phantomptr/ps5upload) (1355)
   - Send games, apps and homebrew to a jailbroken PS5, and manage the console from your computer, phone or browser.
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2754)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) (2757)
   - Steam Play for macOS
 - [idanbenzvi/abc-letter-quest](https://github.com/idanbenzvi/abc-letter-quest) (1)
   - A 3D phonics/flight game — collect letters, fly an albatross, learn the ABCs
